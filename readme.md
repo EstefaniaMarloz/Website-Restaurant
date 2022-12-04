@@ -1,7 +1,6 @@
-# Restaurant - OnePage HTML5 restaurant web
+# Website Restaurant - OnePage HTML5 web
 
-Restaurant is a clean and professional Responsive Website Restaurant. Built with Bootstrap and maintaining best practices of HTML5 / CSS3. It’s responsive too – will fit great on all screens and mobile devices.
-
+This is a responsive Website Restaurant. Built with Bootstrap and maintaining best practices of HTML5 / CSS3. It’s responsive too – will fit great on all screens and mobile devices.
 
 **Code :** (https://github.com/EstefaniaMarloz/Website-Restaurant)
 
